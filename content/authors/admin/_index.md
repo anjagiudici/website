@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Doctorate in Education Science
+  - course: PhD in Education Science
     institution: University of Zurich
     year: 2019
   - course: MA in Education Science
