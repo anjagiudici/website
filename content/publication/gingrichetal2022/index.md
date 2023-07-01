@@ -4,11 +4,11 @@ authors:
 - Jane Gingrich
 - admin
 - Daniel McArthur
-date: "2022-08-01T00:00:00Z"
+date: "2023-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01T00:00:00Z"
+publishDate: "2023-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["6"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "In *The Oxford Handbook on Education and Globalization*, eds. Paola Mattei and Jacqueline Behrens (in press). Oxford: Oxford University Press"
+publication: "In *The Oxford Handbook on Education and Globalization*, eds. Paola Mattei, Xavier Dumay, Eric Mangez, and Jacqueline Behrens (in press). Oxford: Oxford University Press"
 publication_short: ""
 
 
@@ -30,7 +30,7 @@ summary: ""
 featured: true
 
 links:
-- name: ''
+#- name: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''

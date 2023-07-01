@@ -17,8 +17,6 @@ organizations:
 - name: Newcastle University
   url: "https://www.ncl.ac.uk/ecls/"
 
-- name: University of Oxford
-  url: "https://www.politics.ox.ac.uk/person/anja-giudici"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -74,7 +72,7 @@ user_groups:
 #- Visitors
 ---
 
-I am a Lecturer (Assistant Professor) in Education at Newcastle University and a Postdoctoral Research Fellow at the University of Oxford, where I work on the [ERC funded Schoolpol project](https://schoolpol.web.ox.ac.uk/home).
+I am a Lecturer (Assistant Professor) in Education at Newcastle University. I previously worked as a Postdoctoral Research Fellow at the University of Oxford on the [ERC funded Schoolpol project](https://schoolpol.web.ox.ac.uk/home).
 
 My research revolves around the politics and history of education. I am particularly interested in exploring how ideological, societal, and cultural diversities interact in shaping how education is conceived, governed, and practiced. 
 

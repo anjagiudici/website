@@ -1,15 +1,13 @@
 ---
-title: "Center-right Parties and Post-War Secondary Education"
+title: "Education as a Tool of Social Equality?"
 authors:
-- admin
 - Jane Gingrich
-- Tom Chevalier
-- Matthias Haslberger
+- admin
 date: "2023-01-01T00:00:00Z"
-doi: "10.5129/001041523X16570701392481"
+doi: "10.1111/spol.12878"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01T00:00:00Z"
+publishDate: "2023-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,20 +16,11 @@ publishDate: "2022-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Comparative Politics*, 55(2), 193-218"
+publication: "*Social Policy & Administration*, 57(1), 172-188"
 publication_short: ""
 
-abstract: "The massification of secondary schooling constitutes the key educational project of the first
-post-war period. However, the resulting educational structures differed in terms of streaming
-and standardisation. Despite their historical opposition, center-right parties contributed to
-shaping these reforms. They opposed standardisation because their distributive strategy rested
-on support from elites and middle classes. However, their stance on streaming varied. Centreright
-parties supported streaming when they were linked to teachers and private providers who
-opposed comprehensive reforms, but supported de-streaming where such groups aligned with
-the left. The analysis suggests that common partisan distributive aims can materialize as varied
-public service reforms, due their intersection with the productive environment. This paper
-shows these outcomes by tracing reforms shaped by center-right parties in Bavaria, France,
-and Italy."
+abstract: "Do political parties approach education with different social policy aims? We argue that while parties have adopted a common language of equality as an aim of education, they draw on different conceptions of it linked to diverging social projects. To make this argument, we first normatively distinguish education as a tool for creating equal opportunity, equal outcomes, and representational diversity. We then draw on an original dataset coding the educational content in the political manifestos of the largest center-left and center-right party across 19 Western democracies from 1950 to present. The analysis shows that left parties
+emphasise more equality of outcome than rightwing parties and pay less attention to equality of opportunity, and that they associate equality-related aims more extensively with promises of resources. These findings suggest that there remain critical differences in parties' understanding of education as a tool of social policy."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -40,7 +29,7 @@ featured: true
 
 links:
 - name: "Article"
-  url: "https://www.ingentaconnect.com/content/cuny/cp/pre-prints/content-jcpo2186"
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/spol.12878"
 url_pdf: 
 url_code: ''
 url_dataset: ''

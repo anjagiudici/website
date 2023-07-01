@@ -1,5 +1,5 @@
 ---
-title: "Bildungspoitik"
+title: "Bildungspolitik"
 authors:
 - admin
 - Patrick Emmenegger
@@ -26,7 +26,7 @@ This chapter outlines the main characteristics of Swiss education politics and p
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: true
+featured: false
 
 links:
 - name: ''

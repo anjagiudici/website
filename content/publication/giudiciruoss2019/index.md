@@ -24,7 +24,7 @@ abstract: "Despite its image as an antifascist stronghold, interwar-Switzerland 
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: true
+featured: false
 
 links:
 - name: "Article"
